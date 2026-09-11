@@ -26,6 +26,10 @@
 
 **安全声明**：本软件为自研商业工具，已通过 **VirusTotal 多引擎扫描**（微软 Defender、火绒 Huorong、ESET、BitDefender、Kaspersky、Avira 等权威杀毒引擎**均检测无威胁**）。
 
+<p align="center">
+  <img src="./virustotal-report.png" alt="VirusTotal 多引擎检测结果" width="90%">
+</p>
+
 **关于 360 误报**：经验证，除 **360 安全卫士** 外，国内外主流杀毒软件均不报毒，可正常安装使用。360 对"本地可执行文件 + 安装包"较容易出现**误报**，此为 360 特有行为，并非真实病毒。
 
 ✅ **如遇 360 提示，按以下方式放行即可（任选其一）：**
