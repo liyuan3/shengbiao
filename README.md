@@ -12,7 +12,7 @@
 
 **👉 下载 Windows 安装版：**
 
-[⬇️ 点击下载 胜标 1.0.0（Windows x64）](https://gitee.com/foshou111/shengbiao/releases/download/AI%E6%A0%87%E4%B9%A6%E5%B7%A5%E5%85%B7/%E8%83%9C%E6%A0%87_1.0.0_x64-setup.exe)
+[⬇️ 点击下载 胜标 1.0.0（Windows x64）](https://github.com/liyuan3/shengbiao/releases/download/AI%E6%A0%87%E4%B9%A6%E5%B7%A5%E5%85%B72/_1.0.0_x64-setup.exe)
 
 **👉 充值入口（购买卡密 / 开通 AI 额度）：**
 
